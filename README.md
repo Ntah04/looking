@@ -1,2 +1,2 @@
-# looking
+# main.py
 hey,look at me
